@@ -1,4 +1,4 @@
-### Criar imagem Dokcer
+### Criar imagem Docker
 ```bash
 $ docker build . -t node-app
 ```
